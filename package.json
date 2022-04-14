@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/greghounsom.lwc-l1yw0chl-fork-l1yw58p2",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve l4jL2iPxj0YrwlsKGpWe --open"
+  }
+}
